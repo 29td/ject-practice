@@ -1,0 +1,20 @@
+{
+  "name": "ject-practice",
+  "version": "1.0.0",
+  "description": "In this exercise I will write a few practical tests for JavaScript functions using the Jest library. I will also make sure that I follow the AAA pattern to make my tests easier for other developers to read and understand.",
+  "main": "stringLength .test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/29td/ject-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/29td/ject-practice/issues"
+  },
+  "homepage": "https://github.com/29td/ject-practice#readme"
+}
